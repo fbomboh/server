@@ -1,4 +1,4 @@
-var http = require('https'),
+var http = require('http'),
     port = 6001;
 
 function handle(req, res) {
